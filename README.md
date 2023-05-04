@@ -1,5 +1,7 @@
 # Pinecone-Examples
 
+![Alt Text](https://github.com/Swty13/Pinecone-examples/blob/main/pinecone.png)
+
 Pinecone is a cloud-native vector database that provides a simple and efficient way to store, search, and retrieve high-dimensional vector data. With Pinecone, you can focus on building your machine learning models instead of worrying about data storage and retrieval.
 
 
